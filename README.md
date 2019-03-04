@@ -14,7 +14,7 @@ So take your time to go through the course as many times as necessary to build a
 ## Materials - 
 https://www.youtube.com/watch?v=AV_VYsJnHQQ&feature=youtu.be
 
-# Course 1.1 - Introduction to Web Development
+# Course 2.0 - Introduction to Web Development
 
 ## Introduction
 Welcome to the second section of this curriculum. 
