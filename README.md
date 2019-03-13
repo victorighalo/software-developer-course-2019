@@ -33,3 +33,21 @@ This section will introduce you to the foundational concepts in web development,
 ## Materials - 
 1. Basic Web Development Concepts - [link](https://www.youtube.com/watch?v=FXqTHsPaY0A "Link")
 2. Web Development - Understanding Technology - by CS50 at Harvard - [link](https://www.youtube.com/watch?v=U6hkOAnFJxM "Link")
+
+## Course 2.1 - Web Development vs Software Development
+
+### Introduction
+This section is a continuation from the foundational concepts in web development. In this section, you will be introduced to the different aspects of web development and how is relates and differs from software development.
+
+### What will you will learn?
+- What is front-end web development
+- What is backend-end web development
+- What is full-stack web development
+- What is the difference between web development and software development
+
+### Materials - 
+1. Front-end, Back-end, full-stack Web Development - 
+- [link 1](https://www.coursereport.com/blog/front-end-development-vs-back-end-development-where-to-start "Link 1")
+- [link 2](https://hackernoon.com/should-you-be-a-back-end-front-end-or-full-stack-developer-cf3a39aa95de "Link 2")
+
+2. Web Development vs Software development - [link](https://blog.devmountain.com/web-development-vs-software-development-which-is-the-better-career-choice/ "Link 1")
